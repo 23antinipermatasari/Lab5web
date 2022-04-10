@@ -40,7 +40,7 @@ kita lihat hasilnya :<br>
 Berikut adalah Htmlnya <br>
 ![Gambar13](Gambar/Gambar14.png)<br>
 Kita Lihat hasilnya :<br>
-![Gambar14](Gambar/Gambar15.png)<br>
+![Gambar14](Gambar/Gamba15.png)<br>
 
 Sekian Dari saya, Kurang Lebih nya mohon dimaafkan.<br>
 Terimakasih......<br>
